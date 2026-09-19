@@ -228,6 +228,4 @@ Supported criteria: `min_age`, `max_age`, `max_income`, `gender`, `occupation`, 
 
 YojanaMitra gives **guidance only**. It is not an official government service and does not guarantee eligibility or approval. Always confirm the current rules and apply through the official portal linked on each scheme card.
 
----
 
-**Built for a 24-hour hackathon** to make welfare information simpler, clearer, and easier to act on.
